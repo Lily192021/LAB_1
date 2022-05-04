@@ -1,5 +1,0 @@
-Valor actual de Datos de Bitcoins
- BTC: $39,700.84
- BCH: $297.75
- USDTether: $1
- USDC: $1
